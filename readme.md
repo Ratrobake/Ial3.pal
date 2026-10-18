@@ -1,0 +1,1 @@
+This app is just an idea of a custom AI chat app
